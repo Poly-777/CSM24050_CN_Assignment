@@ -7,7 +7,9 @@ Using RAW sockets to generate packets.
 Create RAW socket programs to send custom TCP packets containing roll number
 and ICMP timestamp messages. Capture packets using Wireshark.
 
-## Output Screenshot
+## Output Screenshot 1 
 ![Assignment 10 Output](Assignment_10 icmp timestamp.png)
+
+## Output Screenshot 2 
 ![Assignment 10 Output](Assignment_10 raw sender.png)
 
