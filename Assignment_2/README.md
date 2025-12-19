@@ -9,4 +9,4 @@ clients purchase fruits. The server updates stock, handles insufficient quantity
 maintains unique customer IDs, and displays transaction details.
 
 ## Output Screenshot
-![Assignment 2 Output](assignment_2.png)
+![Assignment 2 Output](Assignment_2.png)
